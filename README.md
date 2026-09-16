@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 · O02plXuV -->
-## Notification 1/2
-Round: Round 1
-To: kstacy1@cinci.rr.com, johannahkone@yahoo.com
-At: 2026-09-16 16:02:18
-Id: O02plXuV
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: hjbauto@aol.com, mcj_401@hotmail.com
+At: 2026-09-16 16:02:26
+Id: nEbILyl9
